@@ -1,0 +1,19 @@
+{
+  "location": {
+    "name": "Luqa"
+  },
+  "current": {
+    "temp_c": 23,
+    "precip_mm": 0.03
+  },
+  "forecast": {
+    "forecastday": [
+      {
+        "day": {
+          "avgtemp_c": 20.8,
+          "totalprecip_mm": 4.66
+        }
+      }
+    ]
+  }
+}
